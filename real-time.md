@@ -18,3 +18,8 @@ C:\Users\Crack1\Documents\Node\Real-time (master -> origin) (real-time@1.0.0)
   ? What format do you want your config file to be in? JSON
   Successfully created .eslintrc.json file in C:\Users\Crack1\Documents\Node\Real-time
 
+
+socket.emit represent a individual socket connected
+io.emit represent all the socket and broadcast to all the host connected
+
+
